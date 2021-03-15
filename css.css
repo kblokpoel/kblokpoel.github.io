@@ -18,10 +18,10 @@ body{
 }
 
 .topnav {
-  
+
   display: flex;
   font-family: monospace;
-  background-color: #333;
+  background-color: rgb(34, 34, 34);
   overflow: hidden;
 }
 
@@ -32,7 +32,7 @@ body{
 
 
 .topnav a {
-  color: #f2f2f2;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -41,7 +41,7 @@ body{
 
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(255, 255, 255);
   color: black;
 }
 
@@ -62,8 +62,21 @@ body{
   text-align: center;
   font-size: 25px;
   font-family: monospace;
+}
+
+.avatarpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative 
 
 
+}
 
+#footer{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
 
 }
