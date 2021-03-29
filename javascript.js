@@ -6,5 +6,9 @@ button.addEventListener("click", function () {
     // console.log(i);
     // console.log(elements[i]);
     elements[i].classList.toggle('button-light-on')
+    button.textContent = "Light mode";
   }
+  
+  
+  
 });
