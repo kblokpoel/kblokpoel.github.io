@@ -55,6 +55,7 @@ body{
 
 
 .main-text{
+  
   display: flex;
   flex: 1;
   justify-content: center;
@@ -62,6 +63,7 @@ body{
   text-align: center;
   font-size: 25px;
   font-family: monospace;
+  
 }
 
 .avatarpic {
@@ -101,3 +103,48 @@ body{
   background-color: rgb(54, 54, 54);
   color: white;
 }
+
+#dripimg{
+  filter: drop-shadow(15px 10px 8px #1b1b1b);
+  margin-top: 57px;
+  border: 1em;
+  border-radius: 15px;
+  border: 5px solid;
+}
+#dripimg2{
+  filter: drop-shadow(15px 10px 8px #1b1b1b);
+  margin-top: 20px;
+  border: 1em;
+  border-radius: 15px;
+  border: 5px solid;
+}
+
+#dripimg3{
+  filter: drop-shadow(15px 10px 8px #1b1b1b);
+  margin-top: 163px;
+  border: 1em;
+  border-radius: 15px;
+  border: 5px solid;
+  width: 600px;
+  height: 300px;
+}
+
+
+.converterButton{
+  margin-top: 15px;
+  margin-left: 5px;
+  width: 100px;
+  height: 50px;
+  background-color: rgb(153, 141, 158);
+      color: rgb(41, 29, 85);
+      border: 2px solid #6e1dca;
+    }
+
+    ::placeholder {
+      color: rgb(0, 0, 0);
+      font-size: 1.2em;
+    }
+
+    #converttext{
+      margin-top: 20px;
+    }
