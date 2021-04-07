@@ -148,3 +148,10 @@ body{
     #converttext{
       margin-top: 20px;
     }
+
+.calculator__keys { 
+ display: grid; 
+ /* other necessary CSS */ 
+ }
+ 
+
