@@ -5,10 +5,11 @@ button.addEventListener("click", function () {
   for (let i = 0; i < elements.length; i++) {
     // console.log(i);
     // console.log(elements[i]);
-    elements[i].classList.toggle('button-light-on')
+    document.body.style.backgroundColor = 'rgb(48, 48, 48)';
   }
   if(button.textContent == "Dark mode")
   {
+    document.body.style.backgroundColor = '#f5f5f5';
     button.textContent = "Light mode";
   }
   else
