@@ -1,19 +1,22 @@
+const anime = document.querySelector('.anime')
+const character = document.querySelector('.character')
+const quote = document.querySelector('.quote')
 const title = document.querySelector('.title');
 const button = document.querySelector('.button');
-let quote;
-let txt = document.createElement('p')
-
 function getQuote() {
     fetch('https://animechan.vercel.app/api/random')
     .then(response => response.json())
-    .then(quote => console.log(quote))
+    .then(function getData(data){
+        console.log(data);
+        anime.textContent = data.anime;
+        character.textContent = data.character;
+        quote.textContent = data.quote;
+    })
 }
-getQuote();
-button.addEventListener('click', function epicquote() {
-    title.textContent = getQuote();
-   
+
+button.addEventListener('click', getQuote);
     
-})
+
 
 
 
