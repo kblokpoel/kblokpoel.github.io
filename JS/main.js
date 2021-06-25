@@ -14,8 +14,8 @@ let currentPlayer = 0; // This is the index of the array of the currentplayer
 const fields = document.querySelectorAll('.board > .field');
 const resetButton = document.querySelector(".reset-btn");
 //Create two players aligned with the Player class
- const playerOne = new Player("Mark", 'X');
- const playerTwo = new Player("Yo MAMA", 'O');
+ const playerOne = new Player("Player 1", 'X');
+ const playerTwo = new Player("Player 2", 'O');
 //Add both players to the players array
  players.push(playerOne, playerTwo);
 /**
