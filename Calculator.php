@@ -14,15 +14,15 @@
   </head>
 
   <div class="navigation" style="width: 100%; margin-top: -410px;">
-    <ul class="topnav"> 
-      <li><a href="index.html">Home</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="contact.html">Contact</a></li>
-      <li><a href="Tool.html">Tools</a></li>
-      <li><a href="Calculator.html">Calculator</a></li>
-      <li><a href="animequotes.html">Anime Quotes</a></li>
-      <li><a href="tictactoe.html">Tic Tac Toe</a></li>
+    <ul class="topnav">
+      <li><a href="index.php">Home</a></li>
+      <li><a href="about.php">About</a></li>
+      <li><a href="projects.php">Projects</a></li>
+      <li><a href="contact.php">Contact</a></li>
+      <li><a href="Tool.php">Tools</a></li>
+      <li><a href="Calculator.php">Calculator</a></li>
+      <li><a href="animequotes.php">Anime Quotes</a></li>
+      <li><a href="tictactoe.php">Tic Tac Toe</a></li>
      
     <button class="button-light-on darkmodebutton" style="border-radius: 50%; background: rgb(116, 102, 102); margin-top: 10px; margin-bottom: 5px;">Dark mode</button>
       <body> 
