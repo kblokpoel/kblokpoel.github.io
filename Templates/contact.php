@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>Portofolio Project Keren Blokpoel</title>
-    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="stylesheet" href="../public/CSS/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
   </head>
   <body>
       <ul class="topnav">
-          <li><a href="index.php">Home</a></li>
+          <li><a href="../index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
           <li><a href="projects.php">Projects</a></li>
           <li><a href="contact.php">Contact</a></li>
@@ -58,5 +58,5 @@
 
 
 
-      <script src="./JS/javascript.js"></script>
+      <script src="../public/JS/javascript.js"></script>
       </body>

@@ -3,11 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>Portofolio Project Keren Blokpoel</title>
-    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="stylesheet" href="../public/CSS/style.css">
   </head>
   <body>
       <ul class="topnav">
-          <li><a href="index.php">Home</a></li>
+          <li><a href="../index.php">Home</a></li>
           <li><a href="about.php">About</a></li>
           <li><a href="projects.php">Projects</a></li>
           <li><a href="contact.php">Contact</a></li>
@@ -34,6 +34,6 @@
           </div>
       </div>
 
-    <script src="./JS/javascript.js"></script>
-    <script src="./JS/converter.js"></script>
+    <script src="../public/JS/javascript.js"></script>
+    <script src="../public/JS/converter.js"></script>
     

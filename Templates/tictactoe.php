@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boter Kaas eieren</title>
-    <link rel="stylesheet" href="./CSS/styletictactoe.css">
+    <link rel="stylesheet" href="../public/CSS/styletictactoe.css">
   </head>
   <body>
     <header>
@@ -40,6 +40,6 @@
     <br>
     <br>
     <button style="width: 25%;"><a href="index.html">Click here to go back</a></button>
-    <script type="module" src="./JS/main.js"></script>
+    <script type="module" src="../public/JS/main.js"></script>
   </body>
 </html>
