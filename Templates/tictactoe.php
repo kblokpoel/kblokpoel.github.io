@@ -39,7 +39,7 @@
     <br>
     <br>
     <br>
-    <button style="width: 25%;"><a href="index.html">Click here to go back</a></button>
+    <button style="width: 25%;"><a href="../index.php">Click here to go back</a></button>
     <script type="module" src="../public/JS/main.js"></script>
   </body>
 </html>
