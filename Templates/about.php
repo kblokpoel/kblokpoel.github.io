@@ -17,6 +17,7 @@
     <li><a href="Calculator.php">Calculator</a></li>
     <li><a href="animequotes.php">Anime Quotes</a></li>
     <li><a href="tictactoe.php">Tic Tac Toe</a></li>
+      <li><a href="../lib/index.php">zuzu</a></li>
     <button class="button-light-on"
       style="border-radius: 50%; background: rgb(116, 102, 102); margin-top: 5px; margin-bottom: 5px;">Dark
       mode</button>
