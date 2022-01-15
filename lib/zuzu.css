@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/885501713304395819/932016613891379272/kkr_lelijk._insurt_boos_emoji.png");
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+th, td {
+    outline: solid 1px black;
+}

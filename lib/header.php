@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: burlywood;">
+<body>
     <h1 style="font-family: 'Calibri Light'; font-size: 48px">Welkom bij ZuZu</h1>
 
 </body>

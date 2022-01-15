@@ -2,7 +2,7 @@
     require_once('header.php');
     require_once('database.php');
 ?>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="zuzu.css">
 <div wrapper>
     <p style="font-family: Candara">Wat wilt u bestellen?</p>
     <div class="order">
